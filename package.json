@@ -1,0 +1,21 @@
+{
+  "name": "fito-theme",
+  "displayName": "Fito Theme",
+  "description": "Theme for Vscode with darks colors ",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.93.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Fito Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Fito Theme-color-theme.json"
+      }
+    ]
+  }
+}
