@@ -2,7 +2,7 @@
   "name": "fito-theme",
   "displayName": "Fito Theme",
   "description": "Theme for VSCode with dark colors by RamiroMoralesdev",
-  "publisher": "Fito Theme",
+  "publisher": "FitoTheme",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.93.0"
