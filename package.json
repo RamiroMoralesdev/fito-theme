@@ -1,11 +1,14 @@
 {
   "name": "fito-theme",
   "displayName": "Fito Theme",
-  "description": "Theme for Vscode with darks colors ",
+  "description": "Theme for VSCode with dark colors by RamiroMoralesdev",
+  "publisher": "RamiroMoralesdev",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.93.0"
   },
+
+  
   "categories": [
     "Themes"
   ],
@@ -16,6 +19,19 @@
         "uiTheme": "vs-dark",
         "path": "./themes/Fito Theme-color-theme.json"
       }
+    ],
+    "commands": [
+      {
+        "command": "fito-theme.enable",
+        "title": "Enable Fito Theme"
+      }
     ]
+  },
+  "scripts": {
+    "vscode:prepublish": "node ./node_modules/vscode/bin/compile",
+    "vscode:postinstall": "node ./node_modules/vscode/bin/install"
+  },
+  "devDependencies": {
+    "vscode": "^1.60.0"
   }
 }

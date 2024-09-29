@@ -1,0 +1,12 @@
+body {
+    background-image: url("https://ramiromorales.tech/assets/favicon%20transparent.png");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    opacity: 1;
+  }
+  
+  .monaco-editor .view-lines {
+    background-color: rgba(255, 255, 255, 0.8); /* Para hacer el editor semi-transparente */
+  }
+  
