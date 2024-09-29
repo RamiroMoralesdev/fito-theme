@@ -1,9 +1,10 @@
 {
 	"name": "Fito Theme",
+	"type": "dark",
 	"colors": {
 		"editor.background": "#313234",
 		"editor.foreground": "#E0E0E0",
-		"editorCursor.foreground" : "#50FA7B",
+		"editorCursor.foreground" : "#6aa16c",
 		"scrollbarSlider.background" : "#4D4D4D",
 		"sideBar.background": "#4D4D4D",
 		"sideBar.foreground": "#eee",
@@ -119,7 +120,7 @@
 				"meta.block variable.other"
 			],
 			"settings": {
-				"foreground": "#50FA7B"
+				"foreground": "#6aa16c"
 			}
 		},
 		{
