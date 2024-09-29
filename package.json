@@ -7,8 +7,20 @@
   "engines": {
     "vscode": "^1.93.0"
   },
-
   
+  "author": {
+    "name": "RamiroMoralesdev",
+    "email": "rjaviermoralesjm@gmail.com",
+    "url": "https://ramiromorales.tech/"
+  },
+
+  "repository": {
+    "url": "https://github.com/RamiroMoralesdev/fito-theme",
+    "type": "git"
+  },
+
+  "icon": "/favicon transparent white.png",
+
   "categories": [
     "Themes"
   ],
@@ -19,19 +31,6 @@
         "uiTheme": "vs-dark",
         "path": "./themes/Fito Theme-color-theme.json"
       }
-    ],
-    "commands": [
-      {
-        "command": "fito-theme.enable",
-        "title": "Enable Fito Theme"
-      }
     ]
-  },
-  "scripts": {
-    "vscode:prepublish": "node ./node_modules/vscode/bin/compile",
-    "vscode:postinstall": "node ./node_modules/vscode/bin/install"
-  },
-  "devDependencies": {
-    "vscode": "^1.60.0"
   }
 }
