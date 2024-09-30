@@ -6,10 +6,11 @@
 		"editor.foreground": "#E0E0E0",
 		"editorCursor.foreground" : "#6aa16c",
 		"scrollbarSlider.background" : "#4D4D4D",
-		"sideBar.background": "#4D4D4D",
+		"sideBar.background": "#3b3b3b",
 		"sideBar.foreground": "#eee",
 		"activityBar.background": "#000",
 		"statusBar.background": "#f9b379",
+		"statusBar.noFolderBackground": "#f9b379",
 		"statusBar.foreground": "#000",
 		"tab.activeBackground": "#0b0e14",
 		"tab.inactiveBackground": "#3b3b3d",
@@ -19,6 +20,7 @@
 		"editorError.foreground": "#ff0000",
 		"terminal.background": "#313234",
 		"terminal.foreground": "#fff"
+		
 	},
 	"tokenColors": [
 		{

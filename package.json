@@ -3,7 +3,7 @@
   "displayName": "Fito Theme",
   "description": "Theme for VSCode with dark colors by RamiroMoralesdev",
   "publisher": "FitoTheme",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "engines": {
     "vscode": "^1.93.0"
   },
