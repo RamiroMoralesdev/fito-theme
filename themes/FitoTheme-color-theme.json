@@ -8,7 +8,7 @@
 		"scrollbarSlider.background" : "#4D4D4D",
 		"sideBar.background": "#3b3b3b",
 		"sideBar.foreground": "#eee",
-		"activityBar.background": "#000",
+		"activityBar.background": "#2c2c2d",
 		"statusBar.background": "#f9b379",
 		"statusBar.noFolderBackground": "#f9b379",
 		"statusBar.foreground": "#000",
