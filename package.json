@@ -30,7 +30,14 @@
         "label": "Fito Theme",
         "uiTheme": "vs-dark",
         "path": "./themes/FitoTheme-color-theme.json"
+      },
+
+      {
+        "label": "Fito Theme UltraDark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/FitoTheme-UltraDark.json"
       }
+
     ]
   }
 }
